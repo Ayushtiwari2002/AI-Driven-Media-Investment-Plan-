@@ -1,7 +1,7 @@
 # AI-Driven Media Investment Plan for E-Commerce Businesses
 
 ## more about me :-
-✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/ayush-kumar-tiwari-934598225/)
+✈️ [Follow Ayush Kumar Tiwari](https://www.linkedin.com/in/ayush-kumar-tiwari-934598225/)
 
 ## Overview
 This project involves creating an AI-driven media investment plan to optimize advertising strategies for e-commerce businesses. The solution leverages data from multiple advertising platforms to analyze performance and allocate budgets effectively. The key datasets used in this project are from Google Ads, Meta Ads, Facebook Ads, and Microsoft Ads, which provide insights into impressions, clicks, costs, conversions, and revenue.
